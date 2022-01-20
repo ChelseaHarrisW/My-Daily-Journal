@@ -1,6 +1,18 @@
 #container {
    
-    border: 15px solid green;
+    border: 15px solid rgb(18, 75, 18);
     padding: 50px;
     margin: 20px;
+  }
+  .journalContainer {
+display:flex;
+justify-content: space-between;
+align-items: center;
+  }
+
+  .entryList{
+    border: 5px solid rgb(18, 22, 75);
+    padding: 5px;
+    margin: 2px;
+    width: 50%;
   }
